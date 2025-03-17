@@ -8,7 +8,7 @@ Most **Cloud Security Posture Management (CSPM)** tools rely on `iam:GenerateCre
 - **Blind spots in security audits** 🕵️  
 - **Unmonitored access risks** 🔓  
 
-AWS's hard limit allows a **maximum of 5000 IAM users per account**—but what happens when an enterprise **has 25,000+ users**?  
+AWS's current hard limit allows a **maximum of 5000 IAM users per account**—but what happens when an enterprise **has 25,000+ users**?  
 
 👉 **Kloudle solved this.**  
 
