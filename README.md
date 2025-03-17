@@ -57,7 +57,7 @@ By dynamically querying AWS APIs **without relying on credential reports**, we o
 ## 📚 Additional Resources
 
 - **Read more:** [Kloudle’s Blog on IAM Security](https://kloudle.com/blog/kloudle-wins-digitalocean-enterprise-customer-unique-iam-capability/)
-- **Join the Discussion:** [Open an issue](https://github.com/your-org/aws-iam-large-account-security/issues) if you've faced similar IAM challenges!
+- **Join the Discussion:** [Open an issue](https://github.com/Kloudle/aws-iam-large-account-security/issues) if you've faced similar IAM challenges!
 
 ---
 
